@@ -61,17 +61,23 @@ The dashboard allows you to:
 # 📸 Screenshots
 
 ### 🔵 High Churn Risk Example
-<img src="assets/screenshot_high_risk.png" width="650">
+<p align="center">
+  <img src="assets/high_risk_customers.png" width="800">
+</p>
 
 ---
 
 ### 🟢 Low Churn Risk Example
-<img src="assets/screenshot_low_risk.png" width="650">
+<p align="center">
+  <img src="assets/low_risk_customers.png" width="800">
+</p>
 
 ---
 
 ### 📊 Model Evaluation & Confusion Matrix
-<img src="assets/screenshot_metrics.png" width="650">
+<p align="center">
+  <img src="assets/xgboost_shap_summary.png" width="800">
+</p>
 
 ---
 
