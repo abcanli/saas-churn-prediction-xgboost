@@ -1,5 +1,4 @@
----
-🧠 FULL PROFESSIONAL README.md (tam sürüm – direkt yapıştır)
+🧠 FULL PROFESSIONAL README
 # 🔮 SaaS Churn Prediction Dashboard  
 **Real-Time Churn Risk Scoring • ML Models • SHAP Explainability • Streamlit UI**
 
