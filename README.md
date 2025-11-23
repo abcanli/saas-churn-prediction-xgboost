@@ -38,6 +38,7 @@ Bu repo; Data / ML / Analytics / Product Analyst başvurularında portföy proje
 
 ![High Risk](assets/assetsscreenshot_high_risk.png)
 
+
 ![Low Risk](assets/assetsscreenshot_low_risk.png)
 
 ![Metrics](assets/assetsscreenshot_metrics.png)
