@@ -35,16 +35,18 @@ Bu repo; Data / ML / Analytics / Product Analyst başvurularında portföy proje
 ---
 
 
-## 🔥 Example Screenshots
 
-### High Risk Prediction
-![High Risk](assets/assetsscreenshot_high_risk.png)
+## 📸 Screenshots
 
-### Low Risk Prediction
-![Low Risk](assets/assetsscreenshot_low_risk.png)
+### 🔥 High Churn Risk Example
+![High Risk Screenshot](assets/assetsscreenshot_high_risk.png)
 
-### Confusion Matrix & Metrics
-![Metrics](assets/assetsscreenshot_metrics.png)
+### 🟩 Low Churn Risk Example
+![Low Risk Screenshot](assets/assetsscreenshot_low_risk.png)
+
+### 📊 Model Performance (Confusion Matrix)
+![Model Metrics](assets/assetsscreenshot_metrics.png)
+
 
 ---
 
